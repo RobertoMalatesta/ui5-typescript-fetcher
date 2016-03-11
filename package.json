@@ -1,0 +1,6 @@
+{
+    "name": "@mschmale/ui5-typescript-fetcher", 
+    "dependencies": {
+        "got": "~6.2"
+    }
+}
