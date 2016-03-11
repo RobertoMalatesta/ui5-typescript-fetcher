@@ -1,5 +1,7 @@
 {
-    "name": "@mschmale/ui5-typescript-fetcher", 
+    "name": "ui5-typescript-fetcher", 
+    "pivate": true,
+    "version": "0.0.0",
     "dependencies": {
         "got": "~6.2"
     }
